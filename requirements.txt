@@ -1,1 +1,3 @@
-torchss
+torch
+torchvision
+tensorboard

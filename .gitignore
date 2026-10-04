@@ -1,0 +1,22 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset downloads and extracted copies
+Flicker8k_Dataset/
+__MACOSX/
+flickr8k/images/
+Flickr8k_Dataset.zip
+Flickr8k*.txt
+Flickr_8k*.txt
+CrowdFlowerAnnotations.txt
+ExpertAnnotations.txt
+flickr8k/captions.txt
+readme.txt
+
+# Training artifacts
+runs/
+*.pth
+*.pth.tar
